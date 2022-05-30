@@ -7,7 +7,7 @@
 
 This app was built as a part of the backend development course at Medieinstitutet (WIE21S). 
 
-<div align="center"><img src="https://i.postimg.cc/dQZ0Q0xb/image.png"></div>
+<div align="center"><img src="assets/demo.png"></div>
 
 <h2>Key points</h2>
 
